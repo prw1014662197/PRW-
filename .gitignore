@@ -1,0 +1,6 @@
+.venv
+.env
+.idea
+model/*
+ui/node_modules/*
+ui/dist/*
